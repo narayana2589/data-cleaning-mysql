@@ -1,4 +1,3 @@
-# data-cleaning-mysql
 # Data Cleaning using MySQL
 
 This project shows how to clean raw data using SQL queries in MySQL.
